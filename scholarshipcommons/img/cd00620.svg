@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1032" height="17" viewBox="0 0 1032 17">
+    <g fill="none" fill-rule="nonzero" transform="translate(-74 -376)">
+        <rect width="1180" height="567" stroke="#D9D8D6" rx="4"/>
+        <path fill="#2D2A26" d="M76 383.5l1029-.5h1v2h-1l-1029 .5.003 5v1h-2v-1l-.006-12v-1h2v1l.003 5z"/>
+        <path stroke="#2D2A26" stroke-width="2" d="M1105.036 384.536l-7.072-7.072M1105.036 384.464l-7.072 7.072"/>
+        <!--<circle cx="135" cy="384" r="5" fill="#FD5D60" stroke="#2D2A26" stroke-width="2"/>-->
+        <!--<circle cx="265" cy="384" r="5" fill="#FFF" stroke="#2D2A26" stroke-width="2"/>-->
+        <!--<circle cx="395" cy="384" r="5" fill="#FFF" stroke="#2D2A26" stroke-width="2"/>-->
+        <!--<circle cx="525" cy="384" r="5" fill="#FFF" stroke="#2D2A26" stroke-width="2"/>-->
+        <!--<circle cx="655" cy="384" r="5" fill="#FFF" stroke="#2D2A26" stroke-width="2"/>-->
+        <!--<circle cx="1045" cy="384" r="5" fill="#FD5D60" stroke="#2D2A26" stroke-width="2"/>-->
+        <!--<circle cx="785" cy="384" r="5" fill="#FD5D60" stroke="#2D2A26" stroke-width="2"/>-->
+        <!--<circle cx="850" cy="384" r="5" fill="#FFF" stroke="#2D2A26" stroke-width="2"/>-->
+        <!--<circle cx="915" cy="384" r="5" fill="#FFF" stroke="#2D2A26" stroke-width="2"/>-->
+        <!--<circle cx="720" cy="384" r="5" fill="#FFF" stroke="#2D2A26" stroke-width="2"/>-->
+    </g>
+</svg>
